@@ -1,6 +1,6 @@
 # SI-GuidedProject-587199-1696855719
 
-Project Name: Owl-M
+Project Name: Owl-M : A Material Design Study App
 
 Team - 590879 <br />
 
